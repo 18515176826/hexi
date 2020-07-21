@@ -1,0 +1,362 @@
+[
+  {
+    "ind": 0,
+    "community": "傅家峙社区",
+    "peopleNum": 60,
+    "quantity": 100
+  },
+  {
+    "ind": 1,
+    "community": "汤家井社区",
+    "peopleNum": 62,
+    "quantity": 100
+  },
+  {
+    "ind": 2,
+    "community": "塘子堰社区",
+    "peopleNum": 64,
+    "quantity": 100
+  },
+  {
+    "ind": 3,
+    "community": "张家村社区",
+    "peopleNum": 64,
+    "quantity": 100
+  },
+  {
+    "ind": 4,
+    "community": "长河社区",
+    "peopleNum": 64,
+    "quantity": 100
+  },
+  {
+    "ind": 5,
+    "community": "冠二社区",
+    "peopleNum": 103,
+    "quantity": 100
+  },
+  {
+    "ind": 6,
+    "community": "冠一社区",
+    "peopleNum": 121,
+    "quantity": 100
+  },
+  {
+    "ind": 7,
+    "community": "汤家桥社区",
+    "peopleNum": 131,
+    "quantity": 100
+  },
+  {
+    "ind": 8,
+    "community": "长二社区",
+    "peopleNum": 139,
+    "quantity": 100
+  },
+  {
+    "ind": 9,
+    "community": "官河社区",
+    "peopleNum": 182,
+    "quantity": 100
+  },
+  {
+    "ind": 10,
+    "community": "山二社区",
+    "peopleNum": 186,
+    "quantity": 100
+  },
+  {
+    "ind": 11,
+    "community": "长一社区",
+    "peopleNum": 204,
+    "quantity": 100
+  },
+  {
+    "ind": 12,
+    "community": "西兴社区",
+    "peopleNum": 229,
+    "quantity": 100
+  },
+  {
+    "ind": 13,
+    "community": "联庄社区",
+    "peopleNum": 240,
+    "quantity": 100
+  },
+  {
+    "ind": 14,
+    "community": "天官社区",
+    "peopleNum": 240,
+    "quantity": 100
+  },
+  {
+    "ind": 15,
+    "community": "滨和社区",
+    "peopleNum": 241,
+    "quantity": 100
+  },
+  {
+    "ind": 16,
+    "community": "庙后王社区",
+    "peopleNum": 248,
+    "quantity": 100
+  },
+  {
+    "ind": 17,
+    "community": "岩大房社区",
+    "peopleNum": 252,
+    "quantity": 100
+  },
+  {
+    "ind": 18,
+    "community": "襄七房社区",
+    "peopleNum": 269,
+    "quantity": 100
+  },
+  {
+    "ind": 19,
+    "community": "新浦社区",
+    "peopleNum": 304,
+    "quantity": 100
+  },
+  {
+    "ind": 20,
+    "community": "丹枫社区",
+    "peopleNum": 306,
+    "quantity": 100
+  },
+  {
+    "ind": 21,
+    "community": "协同社区",
+    "peopleNum": 313,
+    "quantity": 100
+  },
+  {
+    "ind": 22,
+    "community": "钱潮社区",
+    "peopleNum": 323,
+    "quantity": 100
+  },
+  {
+    "ind": 23,
+    "community": "水电社区",
+    "peopleNum": 325,
+    "quantity": 100
+  },
+  {
+    "ind": 24,
+    "community": "七甲闸社区",
+    "peopleNum": 333,
+    "quantity": 100
+  },
+  {
+    "ind": 25,
+    "community": "浦联社区",
+    "peopleNum": 361,
+    "quantity": 100
+  },
+  {
+    "ind": 26,
+    "community": "冠山社区",
+    "peopleNum": 373,
+    "quantity": 100
+  },
+  {
+    "ind": 27,
+    "community": "星民社区",
+    "peopleNum": 384,
+    "quantity": 100
+  },
+  {
+    "ind": 28,
+    "community": "共联社区",
+    "peopleNum": 433,
+    "quantity": 100
+  },
+  {
+    "ind": 29,
+    "community": "西陵社区",
+    "peopleNum": 438,
+    "quantity": 100
+  },
+  {
+    "ind": 30,
+    "community": "东冠社区",
+    "peopleNum": 441,
+    "quantity": 100
+  },
+  {
+    "ind": 31,
+    "community": "晶都社区",
+    "peopleNum": 482,
+    "quantity": 100
+  },
+  {
+    "ind": 32,
+    "community": "观潮社区",
+    "peopleNum": 488,
+    "quantity": 100
+  },
+  {
+    "ind": 33,
+    "community": "奥体社区",
+    "peopleNum": 498,
+    "quantity": 100
+  },
+  {
+    "ind": 34,
+    "community": "江汉社区",
+    "peopleNum": 499,
+    "quantity": 100
+  },
+  {
+    "ind": 35,
+    "community": "东信社区",
+    "peopleNum": 542,
+    "quantity": 100
+  },
+  {
+    "ind": 36,
+    "community": "明德社区",
+    "peopleNum": 459,
+    "quantity": 100
+  },
+  {
+    "ind": 37,
+    "community": "月明社区",
+    "peopleNum": 594,
+    "quantity": 100
+  },
+  {
+    "ind": 38,
+    "community": "西浦社区",
+    "peopleNum": 614,
+    "quantity": 100
+  },
+  {
+    "ind": 39,
+    "community": "白马湖社区",
+    "peopleNum": 619,
+    "quantity": 100
+  },
+  {
+    "ind": 40,
+    "community": "温馨社区",
+    "peopleNum": 625,
+    "quantity": 100
+  },
+  {
+    "ind": 41,
+    "community": "之江社区",
+    "peopleNum": 673,
+    "quantity": 100
+  },
+  {
+    "ind": 42,
+    "community": "江二社区",
+    "peopleNum": 675,
+    "quantity": 100
+  },
+  {
+    "ind": 43,
+    "community": "江三社区",
+    "peopleNum": 821,
+    "quantity": 100
+  },
+  {
+    "ind": 44,
+    "community": "滨盛社区",
+    "peopleNum": 927,
+    "quantity": 100
+  },
+  {
+    "ind": 45,
+    "community": "江一社区",
+    "peopleNum": 2338,
+    "quantity": 100
+  },
+  {
+    "ind": 46,
+    "community": "中兴社区",
+    "peopleNum": 599,
+    "quantity": 99.83
+  },
+  {
+    "ind": 47,
+    "community": "金东方社区",
+    "peopleNum": 554,
+    "quantity": 99.82
+  },
+  {
+    "ind": 48,
+    "community": "闻涛社区",
+    "peopleNum": 482,
+    "quantity": 99.79
+  },
+  {
+    "ind": 49,
+    "community": "信诚社区",
+    "peopleNum": 495,
+    "quantity": 99.6
+  },
+  {
+    "ind": 50,
+    "community": "六和社区",
+    "peopleNum": 718,
+    "quantity": 99.58
+  },
+  {
+    "ind": 51,
+    "community": "杨家墩社区",
+    "peopleNum": 421,
+    "quantity": 99.53
+  },
+  {
+    "ind": 52,
+    "community": "马湖社区",
+    "peopleNum": 190,
+    "quantity": 99.48
+  },
+  {
+    "ind": 53,
+    "community": "新州社区",
+    "peopleNum": 562,
+    "quantity": 99.47
+  },
+  {
+    "ind": 54,
+    "community": "新生社区",
+    "peopleNum": 495,
+    "quantity": 99.20
+  },
+  {
+    "ind": 55,
+    "community": "山一社区",
+    "peopleNum": 245,
+    "quantity": 99.19
+  },
+  {
+    "ind": 56,
+    "community": "向南社区",
+    "peopleNum": 196,
+    "quantity": 98.99
+  },
+  {
+    "ind": 57,
+    "community": "江南社区",
+    "peopleNum": 303,
+    "quantity": 98.83
+  },
+  {
+    "ind": 58,
+    "community": "滨文社区",
+    "peopleNum": 359,
+    "quantity": 98.09
+  },
+  {
+    "ind": 59,
+    "community": "彩虹社区",
+    "peopleNum": 328,
+    "quantity": 97.7
+  }
+]

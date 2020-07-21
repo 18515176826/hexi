@@ -1,0 +1,73 @@
+{
+  "name": "demo2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@nereid/shine-vdc": "^1.0.0",
+    "@ourea/video-player": "^1.0.28",
+    "core-js": "^3.6.4",
+    "normalize.css": "^8.0.1",
+    "offline-plugin": "^5.0.6",
+    "stylus": "^0.54.7",
+    "venus-fetch": "^1.1.13",
+    "vue": "^2.6.11",
+    "vue-echarts": "^3.1.3",
+    "vue-router": "^3.0.2",
+    "vuex": "^3.0.1",
+    "vuex-persistedstate": "^2.5.4",
+    "vuex-router-sync": "^5.0.0",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-plugin-eslint": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "babel-eslint": "^10.0.3",
+    "babel-plugin-import": "^1.13.0",
+    "babel-plugin-import-glob": "^2.0.0",
+    "css-loader": "^3.4.2",
+    "eslint": "^5.16.0",
+    "eslint-config-venus": "^1.0.2",
+    "eslint-plugin-vue": "^5.0.0",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "node-sass": "^4.10.0",
+    "node-sass-magic-importer": "^5.2.0",
+    "postcss-import": "^12.0.1",
+    "postcss-loader": "^3.0.0",
+    "postcss-url": "^8.0.0",
+    "precss": "^4.0.0",
+    "sass-loader": "^8.0.0",
+    "socket.io-client": "^2.3.0",
+    "style-loader": "^1.1.3",
+    "stylus-loader": "^3.0.2",
+    "vue-cli-plugin-tq-tpl": "^1.0.41",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": "eslint-config-venus/vue",
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {
+      "vue/multiline-html-element-content-newline": 0,
+      "vue/html-closing-bracket-newline": 0,
+      "no-magic-numbers": 0,
+      "no-console": 0
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "Firefox > 20",
+    "last 2 versions"
+  ]
+}
